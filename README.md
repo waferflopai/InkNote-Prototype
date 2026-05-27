@@ -1,5 +1,7 @@
 # InkNote
 
+![InkNote screenshot](image.png)
+
 A local-first note editor built as a **single-file prototype HTML app**.
 
 ## Status
